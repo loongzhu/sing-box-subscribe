@@ -2,8 +2,5 @@
     "rewrites": [
         { "source": "/(.*)", "destination": "/api/app" }
     ],
-    "outputDirectory": "tmp",
-    "engines": {
-      "node": "18.x"
-    }
+    "outputDirectory": "tmp"
 }
